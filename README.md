@@ -220,4 +220,4 @@ Si no estás en la red correcta:
 
 ## Licencia
 
-ISC
+MIT
