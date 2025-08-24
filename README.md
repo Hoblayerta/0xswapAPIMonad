@@ -217,20 +217,6 @@ Si no estás en la red correcta:
 - Confirma que el slippage sea aceptable
 - Intenta con una cantidad menor
 
-### Contacto y Soporte
-
-Si encuentras problemas:
-1. Revisa los logs de la consola del navegador
-2. Verifica la configuración de red y tokens
-3. Confirma que todas las URLs sean correctas
-
-## Notas Importantes
-
-⚠️ **Esta es una aplicación de testnet.** No uses tokens reales.
-
-⚠️ **Direcciones de ejemplo:** Las direcciones de tokens en `constants.ts` son ejemplos y deben ser reemplazadas.
-
-⚠️ **RPC y Explorer:** Actualiza las URLs en `wagmi.ts` con los endpoints reales de Monad.
 
 ## Licencia
 
