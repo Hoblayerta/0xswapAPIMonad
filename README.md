@@ -5,6 +5,7 @@ Una aplicación descentralizada (dApp) para el intercambio de tokens usando la 0
 # Links
 
 [Direcciones de los tokens Monad](https://docs.monad.xyz/developer-essentials/network-information#testnet-tokens-partial-list)
+[Dashboard 0x](https://dashboard.0x.org/)
 
 ## Características
 
