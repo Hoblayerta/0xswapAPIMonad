@@ -2,6 +2,10 @@
 
 Una aplicación descentralizada (dApp) para el intercambio de tokens usando la 0x Swap API en la red testnet de Monad.
 
+# Links
+
+[Direcciones de los tokens Monad](https://docs.monad.xyz/developer-essentials/network-information#testnet-tokens-partial-list)
+
 ## Características
 
 - ✅ Interfaz moderna con Next.js 15 y React 19
